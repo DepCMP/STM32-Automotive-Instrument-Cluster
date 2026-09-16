@@ -1,0 +1,6 @@
+../Core/Src/main.c:76:5:main	112	static
+../Core/Src/main.c:211:6:SystemClock_Config	88	static
+../Core/Src/main.c:254:6:DWT_Delay_Init	4	static
+../Core/Src/main.c:261:6:DWT_Delay_us	24	static
+../Core/Src/main.c:268:10:ReadPotentiometer_Speed	8	static
+../Core/Src/main.c:292:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,9 @@
+../Core/Src/mcp2515.c:32:13:CS_Select	16	static
+../Core/Src/mcp2515.c:33:13:CS_Deselect	16	static
+../Core/Src/mcp2515.c:36:13:MCP2515_WriteReg	24	static
+../Core/Src/mcp2515.c:44:9:MCP2515_ReadReg	24	static
+../Core/Src/mcp2515.c:55:13:MCP2515_Reset	24	static
+../Core/Src/mcp2515.c:65:6:MCP2515_Init	16	static
+../Core/Src/mcp2515.c:87:9:MCP2515_SendFrame	24	static
+../Core/Src/mcp2515.c:107:9:MCP2515_ReceiveFrame	32	static
+../Core/Src/mcp2515.c:128:16:MCP2515_WaitTxReady	24	static
